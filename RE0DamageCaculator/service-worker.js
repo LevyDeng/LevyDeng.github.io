@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.7f0492ce42c9f3725a1d3fcefcb07144.js"
+  "precache-manifest.5085acf4549ea93eb472299d3a8a00fa.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "re0_damage_calculator"});
